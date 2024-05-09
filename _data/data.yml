@@ -3,13 +3,15 @@
 #
 
 sidebar:
-    position: right # position of the sidebar : left or right
+    position: left # position of the sidebar : left or right
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Yeogyoung Moon
-    tagline: Graduate student, Department of Economics
+    tagline: Graduate student, 
+    
+    Department of Economics
     avatar: # profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -31,16 +33,16 @@ sidebar:
     pdf: # http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      title: 
+      title: #Languages
       info:
-        - idiom: 
-          level: 
+        - idiom: #English
+          level: #Native
 
-        - idiom: 
-          level: 
+        - idiom: #French
+          level: #Professional
 
-        - idiom: 
-          level: 
+        - idiom: #Spanish
+          level: #Professional
 
     interests:
       title: 
@@ -54,10 +56,6 @@ sidebar:
         - item: 
           link:
 
-career-profile:
-    title: 
-    summary:
-    
 education:
     title: Education
     info:
