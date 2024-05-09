@@ -58,7 +58,7 @@ education:
         time: 2018 - 2022
         details: 
         
-International Journal:
+publications:
     title: International Journal
     intro:
     papers:
@@ -72,7 +72,7 @@ International Journal:
         authors: 
         conference: 
         
-Domestic Journal:
+publications:
     title: Domestic Journal
     intro:
     papers:
@@ -86,7 +86,7 @@ Domestic Journal:
         authors: 
         conference: 
         
-Papers Under Review:
+publications:
     title: Papers Under Review
     intro:
     papers:
