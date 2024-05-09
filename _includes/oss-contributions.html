@@ -17,15 +17,15 @@
   <!--//intro-->
   {% endif %}
 
-  {% for publication in publications.papers %}
+  {% for oss in oss.papers %}
   <div class="item">
-    {% if publication.link %}
-      <li><a href="{{ publication.link }}">{{ publication.title }}</a></li>
+    {% if oss.link %}
+      <li><a href="{{ oss.link }}">{{ oss.title }}</a></li>
     {% else %}
-      <li>{{ publication.title }}</li>
+      <li>{{ oss.title }}</li>
     {% endif %}
-    <div class="publication-authors">{{ publication.authors }}</div>
-    <div class="publication-conference">{{ publication.conference }}</div>
+    <div class="oss-authors">{{ oss.authors }}</div>
+    <div class="oss-conference">{{ oss.conference }}</div>
   </div><!--//item-->
   {% endfor %}
 
