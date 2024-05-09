@@ -15,7 +15,7 @@ sidebar:
         Department of Economics, 
         
         Konkuk University
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: #profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: spmoon712@gmail.com
