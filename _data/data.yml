@@ -36,19 +36,19 @@ sidebar:
     pdf: # http://www.africau.edu/images/default/sample.pdf
 
     interests:
-      title: 
+      title: Research Interests:
       info:
-        - item: 
+        - item: Labor Economics
           link:
 
-        - item: 
+        - item: Applied Microeconomics
           link:
 
         - item: 
           link:
 
 education:
-    title: Education
+    title: Education:
     info:
       - degree: M.A., Economics
         university: Konkuk University
