@@ -61,28 +61,20 @@ education:
         details: 
         
 projects:
-    title: International Journal
+    title: Papers
     intro:
     papers:
-      - title: COVID-19 and depressive symptoms among older adults in South Korea
+      - title: COVID-19 and Depressive Symptoms among Older Adults in South Korea
         link: https://doi.org/10.1080/08952841.2024.2345467
         authors: Seunghee Yu, Yeogyoung Moon & Chung Choe
         conference: Journal of Women & Aging. (forthcoming)
 
-oss:
-    title: Domestic Journal
-    intro:
-    papers:
-      - title: A Study on NCS panel design and construction methods
+      - title: A Study on NCS Panel Design and Construction Methods
         link: https://doi.org/10.22886/jkos.2023.28.2.31
         authors: Yeogyoung Moon, Chung Choe & Jinsil Kim (2023)
         conference: Journal of The Korean Official Statistics, 28(2), 31-44.
         
-publications:
-    title: Papers Under Review
-    intro:
-    papers:
-      - title: Repayment burdens of student loans for korean higher education
+      - title: Repayment Burdens of Student Loans for Korean Higher Education
         link: 
         authors: Jinyeong Kim, Yeogyoung Moon & Chung Choe
         conference: 
