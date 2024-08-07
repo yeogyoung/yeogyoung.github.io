@@ -17,18 +17,19 @@
   <!--//intro-->
   {% endif %}
 
-  {% for oss in oss.papers %}
+  {% for contribution in oss.assignments %}
   <div class="item">
-    {% if oss.link %}
-      <li><a href="{{ oss.link }}">{{ oss.title }}</a></li>
-    {% else %}
-      <li>{{ oss.title }}</li>
-    {% endif %}
-    <div class="publication-authors">{{ oss.authors }}</div>
-    <div class="publication-conference">{{ oss.conference }}</div>
-  </div><!--//item-->
-  {% endfor %}
+    
+    <span class="project-title">
+      {% if contribution.link %}
+        <li><a href="{{ contribution.link }}">{{ contribution.title }}</a></li>
+      {% else %}
+        <li>{{ contribution.title }}</li>
+      {% endif %}
+        <div class="publication-authors">{{ contribution.authors }}</div>
+        <div class="publication-conference">{{ contribution.conference }}</div>
+        </div><!--//item-->
+      {% endfor %}
 
-</section>
-<!--//section-->
+</section><!--//section-->
 {% endif %}
