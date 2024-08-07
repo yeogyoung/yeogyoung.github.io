@@ -21,14 +21,20 @@
     
     <span class="project-title">
       {% if contribution.link %}
-        <li><a href="{{ contribution.link }}">{{ contribution.title }}</a></li>
+      <li><a href="{{ contribution.link }}">{{ contribution.title }}</a></li>
       {% else %}
-        <li>{{ contribution.title }}</li>
+      <li>{{ contribution.title }}</li>
       {% endif %}
-        <div class="publication-authors">{{ contribution.authors }}</div>
-        <div class="publication-conference">{{ contribution.conference }}</div>
-        </div><!--//item-->
-      {% endfor %}
+    </span>
 
-</section><!--//section-->
+    {% if contribution.tagline %}
+    - <span class="project-tagline">{{ contribution.tagline }}</span>
+    {% endif %}
+
+  </div>
+  <!--//item-->
+  {% endfor %}
+
+</section>
+<!--//section-->
 {% endif %}
