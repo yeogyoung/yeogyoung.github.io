@@ -7,6 +7,11 @@
     </span>
     {{ skills.title }}
   </h2>
+  
+  {% if skills.intro %}
+  <div class="intro">
+      <p>{{ skills.intro }}</p>
+  </div><!--//intro-->
   {% endif %}
 
   {% for skill in skills.assignments %}
