@@ -81,11 +81,11 @@ projects:
 publications:
     title: Working papers
     intro:
-    papers:       
-      - title: Repayment Burdens of Student Loans for Korean Higher Education
-        link: 
-        authors: Jinyeong Kim, Yeogyoung Moon, & Chung Choe
-        conference: 
+    #papers:       
+      #- title: Repayment Burdens of Student Loans for Korean Higher Education
+        #link: 
+        #authors: Jinyeong Kim, Yeogyoung Moon, & Chung Choe
+        #conference: 
 
       - title: Parental Leave and Its Implications for the Employment of Individuals with Disabilities in Mandatory Employment Systems
         link: 
