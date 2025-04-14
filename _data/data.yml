@@ -68,7 +68,7 @@ projects:
     title: Publications
     intro:
     papers:
-    - title: Parental Leave and Its Implications for the Employment of Individuals with Disabilities in Mandatory Employment Systems
+      - title: Parental Leave and Its Implications for the Employment of Individuals with Disabilities in Mandatory Employment Systems
         link: 
         authors: Yonghyun Yang, Yeogyoung Moon, & Chung Choe
         conference: International Journal of Manpower. (SSCI, forthcoming)
@@ -92,10 +92,6 @@ publications:
         #authors: Jinyeong Kim, Yeogyoung Moon, & Chung Choe
         #conference: 
 
-      - title:
-        link: 
-        authors: 
-        conference: 
 
 # skills:
     # title: Grants
