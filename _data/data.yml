@@ -68,6 +68,11 @@ projects:
     title: Publications
     intro:
     papers:
+    - title: Parental Leave and Its Implications for the Employment of Individuals with Disabilities in Mandatory Employment Systems
+        link: 
+        authors: Yonghyun Yang, Yeogyoung Moon, & Chung Choe
+        conference: International Journal of Manpower. (SSCI, forthcoming)
+
       - title: COVID-19 and Depressive Symptoms among Older Adults in South Korea
         link: https://www.tandfonline.com/doi/abs/10.1080/08952841.2024.2345467
         authors: Seunghee Yu, Yeogyoung Moon, & Chung Choe
@@ -87,9 +92,9 @@ publications:
         #authors: Jinyeong Kim, Yeogyoung Moon, & Chung Choe
         #conference: 
 
-      - title: Parental Leave and Its Implications for the Employment of Individuals with Disabilities in Mandatory Employment Systems
+      - title:
         link: 
-        authors: Yonghyun Yang, Yeogyoung Moon, & Chung Choe
+        authors: 
         conference: 
 
 # skills:
