@@ -68,6 +68,11 @@ projects:
     title: Publications
     intro:
     papers:
+      - title: Repayment Burdens of Student Loans for Korean Higher Education
+        link: https://doi.org/10.3390/su17188118
+        authors: JinYeong Kim, Yeogyoung Moon, Chung Choe (2025)
+        conference: Sustainability. (SSCI)
+    
       - title: Parental Leave and Its Implications for the Employment of Individuals with Disabilities in Mandatory Employment Systems
         link: https://www.emerald.com/insight/content/doi/10.1108/ijm-08-2024-0541/full/html
         authors: Yonghyun Yang, Yeogyoung Moon, & Chung Choe (2025)
