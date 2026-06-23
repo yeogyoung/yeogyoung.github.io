@@ -91,16 +91,21 @@ projects:
 publications:
     title: Working papers
     intro:
-    papers:       
-      #- title: Repayment Burdens of Student Loans for Korean Higher Education
-        #link: 
-        #authors: Jinyeong Kim, Yeogyoung Moon, & Chung Choe
-        #conference: 
-
+    papers:  
       - title: "The Impact of COVID-19 on Employment of Persons with and without Disabilities: Effects of a Mandatory Disability Employment System"
         link: 
         authors: Yeogyoung Moon, Chung Choe, Yoonyoung Choi, & Marjorie Baldwin
         conference: 
+
+      - title: "Unveiling the Hidden Dynamics of Firm Responses to Employment Protection Legislation: Beyond the Average"
+        link: 
+        authors: Yeogyoung Moon, & Chung Choe
+        conference:         
+        
+      - title: "Understanding Female Employment and Wages in Indonesia: The Importance of Accounting for Non-cognitive Skills"
+        link: 
+        authors: Seonkyung Choi, Chung Choe, Yeogyoung Moon, & Huihui Li 
+        conference:  
 
 
 skills:
