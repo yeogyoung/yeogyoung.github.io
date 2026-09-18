@@ -2,9 +2,12 @@
   <ul class="list-unstyled contact-list">
 
     {% if sidebar.email %}
-    <li class="email"><i class="fas fa-envelope"></i>
-      <a href="mailto:{{ sidebar.email }}">{{ sidebar.email }}</a>
-    </li>
+      {% for email in sidebar.email %}
+      <li class="email">
+        <i class="fas fa-envelope"></i>
+        <a href="mailto:{{ email }}">{{ email }}</a>
+      </li>
+      {% endfor %}
     {% endif %}
 
     {% if sidebar.phone %}
